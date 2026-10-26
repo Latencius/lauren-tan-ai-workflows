@@ -1,0 +1,192 @@
+{
+  "research_cutoff_jst": "2026-10-25",
+  "video_groups": [
+    {
+      "id": "react-conf-2025",
+      "title": "React Conf 2025 — Day 1 Q&A",
+      "url": "https://www.youtube.com/watch?v=zyVRg2QR6LA",
+      "date_kind": "event_date",
+      "date_description": "2025-10-07 in Henderson, Nevada; 2025-10-08 in JST.",
+      "basis": "Official video transcript, selected passage.",
+      "summary": "Describes AI as a pairing partner while noting review, correction and outsourced-thinking concerns.",
+      "passages": [
+        {
+          "time": "7:52:19",
+          "seconds": 28339,
+          "url": "https://www.youtube.com/watch?v=zyVRg2QR6LA&t=28339s",
+          "note": "Pairing, review costs and retaining thought."
+        }
+      ],
+      "limits": "A later edited upload reuses this passage; its upload date is not the date of this answer."
+    },
+    {
+      "id": "maven-2026-08-12",
+      "title": "How Cursor Turned AI Agents Into Better Engineers",
+      "url": "https://maven.com/p/e23d9c/how-cursor-turned-ai-agents-into-better-engineers",
+      "date_kind": "event_start",
+      "date_description": "2026-08-12 16:00 UTC / 2026-08-13 01:00 JST.",
+      "event_start_utc": "2026-08-12T16:00:00+00:00",
+      "event_start_jst": "2026-08-13T01:00:00+09:00",
+      "basis": "Organizer metadata and chapters, plus captions of a matching reupload.",
+      "summary": "Explains verification tools, feature maps, skill evaluations and codebase constraints as foundations for delegation.",
+      "passages": [
+        {
+          "time": "08:35",
+          "seconds": 515,
+          "url": "https://www.youtube.com/watch?v=Cmoh-yR-usA&t=515s",
+          "note": "Verification discussion in a reupload."
+        },
+        {
+          "time": "20:49",
+          "seconds": 1249,
+          "url": "https://www.youtube.com/watch?v=Cmoh-yR-usA&t=1249s",
+          "note": "Evaluating skill changes across models."
+        },
+        {
+          "time": "51:29",
+          "seconds": 3089,
+          "url": "https://www.youtube.com/watch?v=Cmoh-yR-usA&t=3089s",
+          "note": "Resources and cost caveat."
+        }
+      ],
+      "limits": "Timecodes target the identified reupload. Multiple uploads of the workshop count as one event."
+    },
+    {
+      "id": "mts-2026-08-14",
+      "title": "Are Agents About to Replace Software Engineering? — Lauren Tan and Roshan Sadanani",
+      "url": "https://www.youtube.com/watch?v=A63sedG-p5Q",
+      "date_kind": "publication",
+      "date_description": "2026-08-14 07:00:25 JST. Recording date unknown.",
+      "published_at_jst": "2026-08-14T07:00:25+09:00",
+      "basis": "Original publisher metadata and description only; no confirmed complete English transcript.",
+      "summary": "Listed as an additional original Grok Bot interview and demonstration.",
+      "passages": [],
+      "limits": "Inventory entry only. It is not used to support detailed new workflow claims."
+    },
+    {
+      "id": "galaxy-2026-09",
+      "title": "Grok Bot Galaxy — three daily broadcasts",
+      "url": "https://x.ai/galaxy",
+      "date_kind": "local_event_dates",
+      "date_description": "2026-09-15 through 2026-09-17, Pacific local event dates.",
+      "basis": "Targeted searches of community transcripts; screen-handoff dialogue supports passage attribution.",
+      "summary": "Selected passages cover assembling a bot team, skipping design overhead for a throwaway prototype, and routing feedback through triage and reproduction.",
+      "passages": [
+        {
+          "time": "Day 1 01:59:25",
+          "seconds": 7165,
+          "url": "https://x.com/i/broadcasts/1AxRnZbVpjaxl",
+          "note": "Assemble a small engineering-bot team."
+        },
+        {
+          "time": "Day 2 01:55:11",
+          "seconds": 6911,
+          "url": "https://x.com/i/broadcasts/1PKqrNyvmYwGb",
+          "note": "Use a lighter process for a prototype."
+        },
+        {
+          "time": "Day 3 02:10:36",
+          "seconds": 7836,
+          "url": "https://x.com/i/broadcasts/1YGNrbXEeazGw",
+          "note": "Feedback, triage, reproduction and tickets."
+        }
+      ],
+      "transcript_url": "https://github.com/weichselbaum/grok-bot-galaxy-archive",
+      "limits": "No speaker diarization or voice verification. Offsets are relative to each daily stream, and the footage was not continuously watched."
+    },
+    {
+      "id": "compile-talk-2026-09",
+      "title": "Talk introduced as shipping 2,500 PRs in a month",
+      "url": "https://x.com/poteto/status/2102050467505430555",
+      "date_kind": "publication",
+      "date_description": "2026-09-22 00:01 JST; original post is September 21 UTC.",
+      "published_at_jst": "2026-09-22T00:01:00+09:00",
+      "archive_length_at_research": "38:02",
+      "basis": "Original X post and captions of a matching-duration reupload.",
+      "summary": "Connects verification, maintainable control tools and codebase constraints to trust in delegated work.",
+      "passages": [
+        {
+          "time": "10:21",
+          "seconds": 621,
+          "url": "https://www.youtube.com/watch?v=NjoZoUm85x0&t=621s",
+          "note": "Feature maps."
+        },
+        {
+          "time": "24:34",
+          "seconds": 1474,
+          "url": "https://www.youtube.com/watch?v=NjoZoUm85x0&t=1474s",
+          "note": "The gardener role."
+        }
+      ],
+      "transcript_url": "https://youtube-distilled.com/watch/NjoZoUm85x0",
+      "limits": "The introduction says 2,000 PRs while the post says 2,500. Counts are self-reported and the difference is unresolved."
+    },
+    {
+      "id": "peter-yang-2026-09-27",
+      "title": "We Built Grok Bot. Here Are Our 14 Best Bots — Peng Zheng and Lauren Tan",
+      "url": "https://www.youtube.com/watch?v=xZ5TEaleUdg",
+      "date_kind": "publication",
+      "date_description": "2026-09-27 22:00:11 JST. Recording date unknown.",
+      "published_at_jst": "2026-09-27T22:00:11+09:00",
+      "archive_length_at_research": "45:04",
+      "basis": "Original video metadata, creator article and creator transcript; secondary timecodes.",
+      "summary": "Lauren describes specialist-bot creation, travel with final booking approval, and a hierarchy that delegates engineering work.",
+      "passages": [
+        {
+          "time": "17:59",
+          "seconds": 1079,
+          "url": "https://www.youtube.com/watch?v=xZ5TEaleUdg&t=1079s",
+          "note": "Dr Eggbot and specialist bots."
+        },
+        {
+          "time": "21:27",
+          "seconds": 1287,
+          "url": "https://www.youtube.com/watch?v=xZ5TEaleUdg&t=1287s",
+          "note": "Trip planning; approval before booking."
+        },
+        {
+          "time": "25:22",
+          "seconds": 1522,
+          "url": "https://www.youtube.com/watch?v=xZ5TEaleUdg&t=1522s",
+          "note": "Coordinators and engineering bots."
+        }
+      ],
+      "publisher_article_url": "https://creatoreconomy.so/p/grok-bot-team-14-best-bots-peng-zheng-lauren-tan",
+      "transcript_url": "https://github.com/petergyang/behind-the-craft-transcripts/blob/main/transcripts/2026/174-we-built-grok-bot-here-are-our-14-best-bots-peng-zheng-lauren-tan.md",
+      "limits": "The fourteen bots belong to two guests collectively. Peng examples are not attributed to Lauren."
+    },
+    {
+      "id": "matt-pocock-2026-10",
+      "title": "LIVE: Poteto on shipping 1,000s of PRs a month at SpaceX",
+      "url": "https://www.youtube.com/watch?v=MN9dGgmLyso",
+      "date_kind": "live_start",
+      "date_description": "2026-10-03 00:59:11 JST; publisher labels the event October 2.",
+      "live_start_jst": "2026-10-03T00:59:11+09:00",
+      "archive_length_at_research": "65:36",
+      "basis": "Original video metadata; secondary timestamped transcript.",
+      "summary": "Discusses deterministic tools, feedback routing, sampled review and the limits of verification.",
+      "passages": [
+        {
+          "time": "20:32",
+          "seconds": 1232,
+          "url": "https://www.youtube.com/watch?v=MN9dGgmLyso&t=1232s",
+          "note": "Move deterministic work into tools."
+        },
+        {
+          "time": "49:31",
+          "seconds": 2971,
+          "url": "https://www.youtube.com/watch?v=MN9dGgmLyso&t=2971s",
+          "note": "Sample changes and improve constraints."
+        },
+        {
+          "time": "56:28",
+          "seconds": 3388,
+          "url": "https://www.youtube.com/watch?v=MN9dGgmLyso&t=3388s",
+          "note": "Limits in hard-to-verify domains."
+        }
+      ],
+      "transcript_url": "https://mwolf.dev/library/live-poteto-creator-of-pstack-on-shipping-1-000-s-of-pr-s-a-month-at-spacex/live-poteto-creator-of-pstack-on-shipping-1-000-s-of-pr-s-a-month-at-spacex",
+      "limits": "Native captions were not retrieved. Archive length is not established as the full original live duration."
+    }
+  ]
+}
